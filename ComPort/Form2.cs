@@ -17,11 +17,13 @@ namespace ComPort
        
         private Action show;
 
-        public Form2(string value)
+        public Form2(string value, string timestamp)
         {
             InitializeComponent();
             textBox1.Text = value;
-           
+            label1.Text = timestamp;
+
+
         }
 
         public Form2(int value)
@@ -115,7 +117,7 @@ namespace ComPort
                 }
                 DateTime now = DateTime.Now;
               
-                 label1.Text = DateTime.Now.ToString("dd-MM-yyyy   hh:mm:ss"); 
+                 //label1.Text = DateTime.Now.ToString("dd-MM-yyyy   hh:mm:ss"); 
 
                  
 
@@ -144,6 +146,11 @@ namespace ComPort
         }
 
         private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

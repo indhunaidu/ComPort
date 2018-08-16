@@ -9,3 +9,14 @@ C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompile
 C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.exe
 C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.pdb
 C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.Form2.resources
+C:\Users\swaru\source\repos\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\swaru\source\repos\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\swaru\source\repos\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.Form2.resources
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\swaru\source\repos\ComPort\ComPort\obj\Debug\ComPort.pdb

@@ -442,8 +442,8 @@ namespace ComPort
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            Form2 frm = new Form2( tBoxDataIN.Text);
+            string timestamp = DateTime.Now.ToString("dd-MM-yyyy   hh:mm:ss");
+            Form2 frm = new Form2( tBoxDataIN.Text, timestamp);
             frm.Show();
             if (btnOpen.Enabled)
             {
