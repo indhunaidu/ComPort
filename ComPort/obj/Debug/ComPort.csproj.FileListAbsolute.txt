@@ -1,0 +1,11 @@
+C:\Users\Indhu\source\repos\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\Indhu\source\repos\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\Indhu\source\repos\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.pdb
+C:\Users\Indhu\source\repos\ComPort\ComPort\obj\Debug\ComPort.Form2.resources
